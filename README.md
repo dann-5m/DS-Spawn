@@ -7,5 +7,5 @@ TriggerEvent('ds-spawn:initialize', LastLocationTable)
 
 ## Config
 
-- Locations - Set of default locations for spawn UI
-- LastLocation - Toggle Last Location
+> Locations - Set of default locations for spawn UI
+> LastLocation - Toggle Last Location
