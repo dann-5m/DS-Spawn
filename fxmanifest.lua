@@ -18,3 +18,8 @@ files {
 	'web/build/index.html',
 	'web/build/**/*',
 }
+
+escrow_ignore {
+  "client/**/*",
+  "config.lua"
+}
