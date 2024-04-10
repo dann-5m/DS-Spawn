@@ -4,12 +4,19 @@ This resource is a basic spawn select menu for FiveM. This allows users to selec
 
 ### Features
 • Enhanced UX & Stunning UI Interactive, draggable, and zoomable map
+
 • Responsive design High performance
+
 • Easy and fully configurable
+
 • Custom name positions
+
 • Support for custom locations like last location
+
 • Predefined popular spawn positions
+
 • Easy translation Smooth camera transitions
+
 • Beautiful in/out and hover animations
 
 ## Config
